@@ -1,0 +1,3 @@
+[workspace]
+members = ["deszo_editor", "deszo_frontend"]
+exclude = ["deszo_sandbox"]
